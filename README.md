@@ -1,6 +1,6 @@
-# Hi 👋🏼, I'm Joe and welcome to my YouTube Channel
+# Hi 👋🏼, I'm Joe
 
-## A passionate Data Engineer
+## Data Engineer
 
 - 🔭 I’m currently working on a **Datawarehouse Design Project with PostgreSQL, Snowflake and dbt**
 - 🌱 I’m currently learning **Docker and Virtualization**
