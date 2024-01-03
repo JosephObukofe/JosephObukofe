@@ -9,4 +9,4 @@
 - 💬 Ask me about **SQL and Python**
 - 📫 How to reach me: [josephobukofe@gmail.com](josephobukofe@gmail.com)
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: I have a terrible sense of humor
+- ⚡ Fun fact: **I have a terrible sense of humor**
